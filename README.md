@@ -34,7 +34,9 @@ chmod +x /usr/lib/rackspace-monitoring-agent/plugins/monitoring_filesystem.py
     * Command: mounted_filesystem.py PATH-MOUNT-POINT
 
       For example if a CBS volume is mounted at /mnt the command would be the following:
+
       mounted_filesystem.py /mnt
+
     * Timeout: 5000
 
 
