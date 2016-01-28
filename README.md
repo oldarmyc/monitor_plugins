@@ -2,11 +2,11 @@
 #### How to install the plugin
 
 1. Get the plugin script from the public repository by using wget to get the raw file contents, and set the file to be executable.
-```
-cd /usr/lib/rackspace_monitoring_agent/plugins/
-wget https://raw.githubusercontent.com/oldarmyc/monitor_plugins/master/mounted_filesystem.py
-chmod +x /usr/lib/rackspace-monitoring-agent/plugins/monitoring_filesystem.py
-```
+    ```
+    cd /usr/lib/rackspace_monitoring_agent/plugins/
+    wget https://raw.githubusercontent.com/oldarmyc/monitor_plugins/master/mounted_filesystem.py
+    chmod +x /usr/lib/rackspace-monitoring-agent/plugins/mounted_filesystem.py
+    ```
 
 2. Restart the monitoring daemon
 
